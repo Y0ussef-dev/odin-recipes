@@ -1,0 +1,23 @@
+.title
+{
+    background-color: #21A179;
+    text-align: center;
+    font-size: 40px;
+}
+
+
+.body
+    {
+        background-color: #81AE9D;
+
+    }
+
+.philly {
+  border-width: 0px;
+  margin: 0px;
+  padding: 0px;
+  position: absolute;
+  width: 25%;
+  height: 25%;
+
+}
